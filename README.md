@@ -6,7 +6,7 @@ Our analysis shows that the **AutoGluon Ensemble** model achieved the highest pr
   <img src="e6a6f6517f458aa07161847b40f286a2.png" alt="A-Mel" height="400px">
 </p>
 <p align="center">
-  <b>Fig. 1.</b> Whole structure for A-Mel<br>
+  <b>Fig. 1.</b> Performance metrics of all models<br>
 </p>
 - **Top Performer:** AutoGluon (Accuracy: **0.798558**, AUC: **0.711631**)
 
@@ -21,7 +21,7 @@ Using SHAP interpretability analysis
   <img src="shap_beeswarm_plot.png" alt="A-Mel" height="400px">
 </p>
 <p align="center">
-  <b>Fig. 1.</b> Whole structure for A-Mel<br>
+  <b>Fig. 1.</b> Shap plot<br>
 </p>
 - **Key Features:** PIR, BMI.
 
