@@ -21,7 +21,7 @@ Using SHAP interpretability analysis
   <img src="shap_beeswarm_plot.png" alt="A-Mel" height="400px">
 </p>
 <p align="center">
-  <b>Fig. 1.</b> Shap plot<br>
+  <b>Fig. 2.</b> Shap plot<br>
 </p>
 - **Key Features:** PIR, BMI.
 
